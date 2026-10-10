@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "tag": "Working with HYPush",
+    "slug": "what-does-hypush-do",
+    "question": "What does HYPush do?",
+    "answer": [
+      "We plan and run marketing for music and for the people and brands around it: release campaigns, press, social, content, events and the brand work that ties them together.",
+      "You can bring us in for one piece, like a press push for a single, or for the whole campaign."
+    ]
+  },
+  {
+    "id": 2,
+    "tag": "Working with HYPush",
+    "slug": "who-do-you-work-with",
+    "question": "Who do you work with?",
+    "answer": [
+      "Independent artists, managers, labels, event promoters, and brands that want to reach music fans. If your audience listens to music, we can probably help."
+    ]
+  },
+  {
+    "id": 3,
+    "tag": "Working with HYPush",
+    "slug": "do-i-need-a-label",
+    "question": "Do I need a label or a manager to work with you?",
+    "answer": [
+      "No. Plenty of campaigns start with one artist and one song. We will tell you honestly what makes sense at your stage and what can wait."
+    ]
+  },
+  {
+    "id": 4,
+    "tag": "Working with HYPush",
+    "slug": "outside-music",
+    "question": "Do you work outside music?",
+    "answer": [
+      "Yes. Personal branding, event management, digital marketing and AI implementation work just as well for creators, founders and companies."
+    ]
+  },
+  {
+    "id": 5,
+    "tag": "Releases & campaigns",
+    "slug": "how-early",
+    "question": "How early should I get in touch before a release?",
+    "answer": [
+      "As early as you can. A few weeks of lead time leaves room to pitch press and playlists, prepare content and plan ads before release day.",
+      "Already close to release? Talk to us anyway. We will focus on the things that can still make a difference."
+    ]
+  },
+  {
+    "id": 6,
+    "tag": "Releases & campaigns",
+    "slug": "what-do-you-need",
+    "question": "What do you need from me to get started?",
+    "answer": [
+      "The music (a private link is fine), the release date, artwork and photos, links to your profiles, and the goal: streams, ticket sales, press, or a bigger fanbase in a new city."
+    ]
+  },
+  {
+    "id": 7,
+    "tag": "Releases & campaigns",
+    "slug": "cost",
+    "question": "How much does a campaign cost?",
+    "answer": [
+      "It depends on the scope, the length of the campaign and any ad spend. After a short conversation about your goals we send a written quote, so you know the cost before anything starts."
+    ]
+  },
+  {
+    "id": 8,
+    "tag": "Results & reporting",
+    "slug": "guarantees",
+    "question": "Can you guarantee streams, playlist placements or press coverage?",
+    "answer": [
+      "No, and be wary of anyone who does. Editors and curators decide what they feature.",
+      "What we commit to is the work: a clear plan, targeted pitching, and an honest report on what happened."
+    ]
+  },
+  {
+    "id": 9,
+    "tag": "Results & reporting",
+    "slug": "reporting",
+    "question": "How will I know what is working?",
+    "answer": [
+      "You get regular reports in plain language: what we did, what changed (streams, followers, coverage, ticket sales) and what we plan to do next."
+    ]
+  }
+]
